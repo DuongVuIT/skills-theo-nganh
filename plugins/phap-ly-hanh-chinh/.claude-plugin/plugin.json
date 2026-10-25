@@ -1,0 +1,9 @@
+{
+  "name": "phap-ly-hanh-chinh",
+  "description": "Bộ skills ngành pháp lý – hành chính: soạn hợp đồng, rà soát hợp đồng, soạn công văn.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vudaiduong"
+  },
+  "keywords": ["pháp lý", "hợp đồng", "công văn"]
+}

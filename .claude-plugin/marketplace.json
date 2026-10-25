@@ -1,0 +1,44 @@
+{
+  "name": "skills-theo-nganh",
+  "owner": {
+    "name": "vudaiduong"
+  },
+  "metadata": {
+    "description": "Bộ skills tiếng Việt chia theo ngành nghề: chọn và cài đúng bộ skills cho lĩnh vực của bạn.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "xay-dung",
+      "source": "./plugins/xay-dung",
+      "description": "Ngành xây dựng: lập và kiểm tra dự toán, hồ sơ thi công – nghiệm thu, kế hoạch an toàn lao động.",
+      "version": "1.0.0",
+      "category": "xay-dung",
+      "keywords": ["xây dựng", "dự toán", "nghiệm thu", "an toàn lao động", "construction"]
+    },
+    {
+      "name": "kinh-te-tai-chinh",
+      "source": "./plugins/kinh-te-tai-chinh",
+      "description": "Ngành kinh tế – tài chính: phân tích báo cáo tài chính, thẩm định dự án đầu tư (NPV, IRR), phân tích kinh tế vĩ mô.",
+      "version": "1.0.0",
+      "category": "tai-chinh",
+      "keywords": ["kinh tế", "tài chính", "NPV", "IRR", "báo cáo tài chính", "finance"]
+    },
+    {
+      "name": "ke-toan",
+      "source": "./plugins/ke-toan",
+      "description": "Ngành kế toán: định khoản nghiệp vụ, đối chiếu sổ sách – công nợ, rà soát hồ sơ thuế định kỳ.",
+      "version": "1.0.0",
+      "category": "ke-toan",
+      "keywords": ["kế toán", "định khoản", "đối chiếu", "thuế", "accounting"]
+    },
+    {
+      "name": "phap-ly-hanh-chinh",
+      "source": "./plugins/phap-ly-hanh-chinh",
+      "description": "Ngành pháp lý – hành chính: soạn hợp đồng, rà soát rủi ro hợp đồng, soạn công văn đúng thể thức.",
+      "version": "1.0.0",
+      "category": "phap-ly",
+      "keywords": ["pháp lý", "hợp đồng", "công văn", "hành chính", "legal"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ke-toan",
+  "description": "Bộ skills ngành kế toán: định khoản, đối chiếu sổ sách – công nợ, rà soát hồ sơ thuế.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vudaiduong"
+  },
+  "keywords": ["kế toán", "định khoản", "đối chiếu", "thuế"]
+}

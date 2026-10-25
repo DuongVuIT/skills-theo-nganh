@@ -1,0 +1,9 @@
+{
+  "name": "kinh-te-tai-chinh",
+  "description": "Bộ skills ngành kinh tế – tài chính: phân tích báo cáo tài chính, thẩm định dự án đầu tư, phân tích vĩ mô.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vudaiduong"
+  },
+  "keywords": ["kinh tế", "tài chính", "NPV", "IRR"]
+}

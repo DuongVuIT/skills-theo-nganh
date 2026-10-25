@@ -1,0 +1,9 @@
+{
+  "name": "xay-dung",
+  "description": "Bộ skills ngành xây dựng: dự toán, hồ sơ thi công – nghiệm thu, an toàn lao động.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vudaiduong"
+  },
+  "keywords": ["xây dựng", "dự toán", "nghiệm thu", "an toàn lao động"]
+}
